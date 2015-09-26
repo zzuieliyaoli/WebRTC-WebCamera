@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+section#camera {
+  text-align: center; }
+  section#camera video#video {
+    margin: 0 auto;
+    width: 480px;
+    height: 360px; }
+  section#camera div.shot {
+    margin-top: 40px; }
+  section#camera #canvas {
+    width: 480px;
+    height: 360px; }
+  section#camera #switch {
+    width: 40px;
+    height: 3em; }
+  section#camera #photo {
+    width: 480px;
+    height: 360px; }
